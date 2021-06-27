@@ -1,0 +1,7 @@
+swiggy\entity\Job.class
+swiggy\business\JobBusiness.class
+swiggy\JAXRSConfiguration.class
+swiggy\entity\Entity.class
+swiggy\dao\Dao.class
+swiggy\resource\JobResource.class
+swiggy\dao\JobDao.class
